@@ -1,0 +1,14 @@
+body{
+	background-color: #CCC;
+}
+canvas {
+	border: solid 2px #000;
+	/*background-image: url('../images/saveme.jpg');*/
+	background: rgb(235, 136, 179);
+	background: radial-gradient(circle, rgb(199, 81, 144) 0%, rgb(122, 166, 202) 100%);
+
+	display: block;
+	margin: 0px auto 0px auto;
+	padding-left: 0;
+	padding-right: 0;
+}
